@@ -1,0 +1,16 @@
+{
+  "name": "flicker-backend",
+  "version": "1.0.0",
+  "description": "video streaming and browsing platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flicker",
+    "backend",
+    "Clone"
+  ],
+  "author": "Shaquib Khan",
+  "license": "ISC"
+}
